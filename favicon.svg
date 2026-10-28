@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TaToo Barber Shop - scissors">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#24211a"/>
+      <stop offset="0.6" stop-color="#131311"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1d89d"/>
+      <stop offset="1" stop-color="#c59d58"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="114" fill="url(#background)"/>
+  <rect x="17" y="17" width="478" height="478" rx="104" fill="none" stroke="#a98c58" stroke-width="7"/>
+  <g fill="none" stroke="url(#gold)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="176" cy="354" r="38"/>
+    <circle cx="335" cy="354" r="38"/>
+    <path d="M200 324 366 140"/>
+    <path d="M310 326 151 140"/>
+    <path d="M363 136 384 155"/>
+    <path d="M152 140 141 107"/>
+  </g>
+  <circle cx="258" cy="250" r="10" fill="#f1d89d"/>
+</svg>
